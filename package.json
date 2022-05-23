@@ -1,0 +1,20 @@
+{
+  "name": "jeremy-de-la-cruz",
+  "version": "1.0.2",
+  "description": "Proud owner of jeremy-de-la-cruz NPM package. All rights reserved.",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KSLHacks/jeremy-de-la-cruz.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kevin-leung": "0.0.6"
+  }
+}
